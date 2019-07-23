@@ -41,3 +41,7 @@ body {
 .nav-links a:visited {
   color: #4aaaa5;
 }
+
+.nav-seperator {
+  color: #4aaaa5;
+}

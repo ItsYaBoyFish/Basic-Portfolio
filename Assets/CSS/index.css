@@ -64,20 +64,3 @@ img {
   margin-left: 2em;
   margin-right: 2em;
 }
-
-.footer {
-  clear: left;
-  width: 70%;
-  height: 60px;
-  background-color: #666666;
-  margin-top: 4em;
-  margin-right: auto;
-  margin-left: auto;
-  text-align: center;
-  border-top: solid 6px #4aaaa5;
-}
-
-.footer-content{
-  padding-top: 35px;
-  color: #fff;
-}

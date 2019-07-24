@@ -19,6 +19,7 @@ body {
 .nav-links {
   float: right;
   margin-right: 10em;
+  margin-top: 3.5%;
 }
 
 .nav-links li {
@@ -44,4 +45,20 @@ body {
 
 .nav-seperator {
   color: #4aaaa5;
+}
+
+.nav-brand {
+  height: 90px;
+  width: 180px;
+  position: relative;
+  background-color: #4aaaa5;
+  display: inline-flex;
+  left: 20%;
+  top: 10%;
+}
+
+.nav-brand-name {
+  color: #ffffff;
+  font-size: 40px;
+  text-align: center;
 }

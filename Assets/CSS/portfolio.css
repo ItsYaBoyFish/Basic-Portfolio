@@ -60,7 +60,7 @@ hr {
 .box1 {
   float: left;
   margin-left: 3.5em;
-  background-image: url('https://i.pinimg.com/originals/be/f6/0f/bef60ff20b7c53ec94fde0e9cca2d348.gif');
+  background-image: url('../Images/hangman.jpg');
   background-size: 150px 150px;
   text-align: center;
 }
@@ -68,7 +68,7 @@ hr {
 .box2 {
   float: left;
   margin-left: 7em;
-  background-image: url('https://assetstorev1-prd-cdn.unity3d.com/key-image/768be62a-ba52-4830-99d0-95975fffca80.jpg');
+  background-image: url('../Images/travel.jpg');
   background-size: 150px 150px;
   text-align: center;
 }
@@ -77,7 +77,7 @@ hr {
   clear:left;
   float: left;
   margin-left: 3.5em;
-  background-image: url('https://buyourobot.b-cdn.net/wp-content/uploads/edd/2018/12/2904_robotic-brain_thumb.jpg');
+  background-image: url('../Images/phone.jpg');
   background-size: 150px 150px;
   text-align: center;
 }
@@ -85,7 +85,7 @@ hr {
 .box4 {
   float: left;
   margin-left: 7em;
-  background-image: url('https://www.opm.gov/cybersecurity/img/cybersecurity_badge-165x150.jpg');
+  background-image: url('../Images/computer.jpg');
   background-size: 150px 150px;
   text-align: center;
 }
@@ -94,7 +94,7 @@ hr {
   clear: left;
   float: left;
   margin-left: 3.5em;
-  background-image: url('https://www.wikihow.com/images/thumb/8/85/Win-at-Rock%2C-Paper%2C-Scissors-Step-15-Version-2.jpg/aid150748-v4-728px-Win-at-Rock%2C-Paper%2C-Scissors-Step-15-Version-2.jpg');
+  background-image: url('../Images/widget.jpg');
   background-size: 150px 150px;
   text-align: center;
 }
@@ -102,7 +102,7 @@ hr {
 .box6 {
   float:left;
   margin-left: 7em;
-  background-image: url('https://i2.wp.com/blog.logrocket.com/wp-content/uploads/2019/05/tic-tac-toe_in_webassembly_for_go_web-1-1-1.png?fit=730%2C487&ssl=1');
+  background-image: url('../Images/headphones.jpg');
   background-size: 150px 150px;
   text-align: center;
 }

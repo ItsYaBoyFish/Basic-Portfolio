@@ -57,11 +57,13 @@ input {
   width: 83%;
   height: 2em;
   margin-left: 7em; 
+  border: 1px solid #4aaaa5;
 }
 
 textarea {
   width: 83%;
   margin-left: 7em;
+  border: 1px solid #4aaaa5;
 }
 
 .form-button {

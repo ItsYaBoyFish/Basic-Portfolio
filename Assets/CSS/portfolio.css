@@ -59,35 +59,51 @@ hr {
 .box1 {
   float: left;
   margin-left: 3.5em;
-  background-image: url('https://techcrunch.com/wp-content/uploads/2017/09/iphone-x-tweet.jpg?w=730&crop=1');
+  background-image: url('https://i.pinimg.com/originals/be/f6/0f/bef60ff20b7c53ec94fde0e9cca2d348.gif');
   background-size: 150px 150px;
+  text-align: center;
 }
 
 .box2 {
   float: left;
   margin-left: 7em;
+  background-image: url('https://assetstorev1-prd-cdn.unity3d.com/key-image/768be62a-ba52-4830-99d0-95975fffca80.jpg');
+  background-size: 150px 150px;
+  text-align: center;
 }
 
 .box3 {
   clear:left;
   float: left;
   margin-left: 3.5em;
+  background-image: url('https://buyourobot.b-cdn.net/wp-content/uploads/edd/2018/12/2904_robotic-brain_thumb.jpg');
+  background-size: 150px 150px;
+  text-align: center;
 }
 
 .box4 {
   float: left;
   margin-left: 7em;
+  background-image: url('https://www.opm.gov/cybersecurity/img/cybersecurity_badge-165x150.jpg');
+  background-size: 150px 150px;
+  text-align: center;
 }
 
 .box5 {
   clear: left;
   float: left;
   margin-left: 3.5em;
+  background-image: url('https://www.wikihow.com/images/thumb/8/85/Win-at-Rock%2C-Paper%2C-Scissors-Step-15-Version-2.jpg/aid150748-v4-728px-Win-at-Rock%2C-Paper%2C-Scissors-Step-15-Version-2.jpg');
+  background-size: 150px 150px;
+  text-align: center;
 }
 
 .box6 {
   float:left;
   margin-left: 7em;
+  background-image: url('https://i2.wp.com/blog.logrocket.com/wp-content/uploads/2019/05/tic-tac-toe_in_webassembly_for_go_web-1-1-1.png?fit=730%2C487&ssl=1');
+  background-size: 150px 150px;
+  text-align: center;
 }
 
 img {
@@ -98,6 +114,12 @@ img {
 .project-title {
   z-index: 3;
   background-color: #4aaaa5;
+  padding: 5px;
   color: #fff;
+  font-size: 20px;
+  margin-top: 5em;
+}
+
+.box5 .project-title {
   font-size: 16px;
 }
